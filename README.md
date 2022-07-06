@@ -3,7 +3,7 @@
 
 **What is your favorite animal?**
 
-1.
+1. Zebra
 2.
 3.
 4.
