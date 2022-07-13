@@ -1,11 +1,11 @@
 # GitHub-Workshop-July-6
 
+## text
 
-**What is your favorite animal?**
+**text**
 
-1. Belugas
-2. Zebra
-3.
-4.
-5.
+*text*
 
+[Link text](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
+
+![Picture of Daniel](Daniel_Headshot_Library_Reduced.jpg)
