@@ -1,10 +1,10 @@
-# GitHub-Workshop-July-6
+# Header Text
 
-## text
+## Smaller Header Text
 
-**text**
+**bold text**
 
-*text*
+*italic text*
 
 [Link text](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
 
